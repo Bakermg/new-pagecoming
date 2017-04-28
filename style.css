@@ -11,6 +11,11 @@ body{
 img{
 	width: 100%
 }
+hr{
+  	height:0; 
+	border:0; 
+	border-top:1px solid #89764B;
+}
 .fa{
 	color: #A6192D;
 	font-size 3em;
