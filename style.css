@@ -17,7 +17,7 @@ hr{
 	border-top:1px solid #89764B;
 }
 .fa{
-	color: #A6192D;
+	color: #89764B;
 	font-size 3em;
 }
 
@@ -26,5 +26,5 @@ li{
 	margin-right: 15px;
 }
 .fa:hover {
-	color: #89764B;
+	color: #A6192D;
 }
